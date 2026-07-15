@@ -54,6 +54,12 @@ Areas I particularly enjoy working in include:
 
 ---
 
+## Technical Portfolio
+
+[Open my technical portfolio](./Sebastian_Boeker_Technisches_Portfolio_v1.pdf)
+
+---
+
 ## Technical Focus
 
 ```text
