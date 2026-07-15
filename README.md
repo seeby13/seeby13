@@ -2,7 +2,7 @@
 
 **Machine Learning · Deep Learning · AI Engineering**
 
-I enjoy developing reliable AI systems that transform complex data into practical and reliable solutions.
+I enjoy developing reliable AI systems that transform complex data into practical, well-evaluated solutions.
 
 My background combines applied mathematics, computer science and practical experience with machine learning applications in the energy and meteorological domains. I am particularly interested in reliable AI systems that combine machine learning with practical applications and systematic, measurable evaluation.
 
